@@ -1,7 +1,7 @@
 Hi 👋 My name is Ouail
 ======================
 
-Software/Data Eng
+ML/Data Engineer
 -----------------
 
 * 🌍  I'm based in Paris, France
