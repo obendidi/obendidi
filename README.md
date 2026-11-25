@@ -1,26 +1,17 @@
-Hi 👋 My name is Ouail
-======================
+# Ouail Bendidi
 
-ML/Data Engineer
------------------
+ML & Applied AI Engineer based in Paris, France — building real-time computer vision / ONNX systems, inference tooling, and coding-agent workflows.
 
-* 🌍  I'm based in Paris, France
+## Active Open Source
 
+| Project | What it is | Try it |
+| :--- | :--- | :--- |
+| [**trackflow**](https://github.com/obendidi/trackflow) | Apache-2.0 real-time people & object tracking — ONNX RT-DETRv2 / RF-DETR / D-FINE, ByteTrack / BoT-SORT / OC-SORT / BoostTrack, CLIP / SigLIP / EmbeddingGemma track search, visual run inspector, floorplan homography, and WebGPU playground | `uvx trackflow-python run street.mp4`<br>[Live WebGPU Demo](https://obendidi.github.io/trackflow/) |
+| [**skills**](https://github.com/obendidi/skills) | Lightweight 3-tier coding-agent workflow (`quick`, `feature`, `lab`), multi-provider `council` & `pr`, plus specialist skills (`local-llm`, `onnx-vision-deploy`, `plain-writing`) | `npx skills add obendidi/skills`<br>[skills.sh/obendidi/skills](https://skills.sh/obendidi/skills) |
 
-### Socials
+## Links
 
-<p align="left"> <a href="https://www.github.com/obendidi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ouail-bendidi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/7089006/obendidi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/OuailBendidi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/obendidi"><img src="https://github-readme-stats.vercel.app/api?username=obendidi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="obendidi's GitHub stats" /></a>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/obendidi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+- [LinkedIn](https://www.linkedin.com/in/ouail-bendidi)
+- [X (@OuailBendidi)](https://x.com/OuailBendidi)
+- [Stack Overflow](https://stackoverflow.com/users/7089006/obendidi)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/obendidi)
